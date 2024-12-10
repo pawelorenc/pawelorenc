@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cześć👋
 Jestem Paweł i mam ochote zrobic README na swoim własnym profilu ;)
 
 <!--
