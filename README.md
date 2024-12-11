@@ -1,5 +1,10 @@
 ## Cześć👋
-Jestem Paweł :)
+
+## Pare faktów o mnie
+- Jestem studentem AGH na kierunku Cyberbezpieczeństwo
+- Jestem entuzajasta zadań z WDI szczególnie tych z narzędzi
+- W wolnym czasie robie - "nic" 
+
 
 <!--
 **pawelorenc/pawelorenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
