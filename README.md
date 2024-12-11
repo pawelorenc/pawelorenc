@@ -1,22 +1,9 @@
-## Cześć👋
+## Cześć🙋‍♂️
 
-## Pare faktów o mnie
+Pare faktów o mnie:
 - Jestem studentem AGH na kierunku Cyberbezpieczeństwo
 - Jestem entuzajasta zadań z WDI szczególnie tych z narzędzi
-- W wolnym czasie robie - "nic" 
+- W wolnym czasie robie - "nic"
 
-
-<!--
-**pawelorenc/pawelorenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+![Future_-_Openair_Frauenfeld_2019_01_(cropped)](https://github.com/user-attachments/assets/770636d8-e2b2-4eeb-87d5-c1d92ecdd206)
